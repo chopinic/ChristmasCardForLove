@@ -1,7 +1,11 @@
 # AR-Christmas-Card
+
 Using ARKit to create an extension of Christmas Card in an AR experience
 
-Running on iPhone and iPad
+Running on iPhone or iPad
+
+
+虽已分手，但项目还在。以此纪念天真的过去。
 
 
 圣诞礼物对于直男来说实在是太难想了。正好科研接触了点ARKit的框架，那就给女朋友送一张增强现实的贺卡APP当作礼物吧。
